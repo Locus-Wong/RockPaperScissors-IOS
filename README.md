@@ -1,6 +1,7 @@
 # RockPaperScissors-IOS
 
-This is a Rock-Paper-Scissors mobile game with special rules.
+<h3>This is a Rock-Paper-Scissors mobile game with special rules.</h3>
+
 Each turn, the app randomly picks either Rock, Paper, or Scissors. It also alternates between prompting the player to win or lose. The player must then tap the correct move to achieve the required outcome.
 
 If the player selects the correct move, they earn one point; if not, they lose one point. The game ends after 10 turns, and the final score is displayed.

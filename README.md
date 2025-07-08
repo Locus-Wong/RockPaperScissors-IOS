@@ -11,7 +11,7 @@ If the app chooses “Rock” and prompts “Win,” the player must choose “P
 If it chooses “Rock” and prompts “Lose,” the player must choose “Scissors.”
 
 <br/>
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/04c61246-854f-4f72-ad0e-849ba53b00c4" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/04c61246-854f-4f72-ad0e-849ba53b00c4" />
 
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/c9ecb637-418a-4687-a8b2-2e8d6752e92a" />
 
